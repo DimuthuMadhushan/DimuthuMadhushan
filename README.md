@@ -1,2 +1,2 @@
-# Hi my name is Dimuthu Madhushan
-## I'm a full stack developer
+# :wave:Hi I'm Dimuthu Madhushan
+## 💻  I'm a full stack developer from Srilanka
