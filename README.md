@@ -3,9 +3,9 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/dimuthuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asindu-de-silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dimuthuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimuthu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ 22213334/dimuthu-madhusahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21852219" height="30" width="40" /></a>
-<a href="https://web.facebook.com/dimuthu.madushan.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asindu.desilva.7" height="30" width="40" /></a>
+<a href="https://web.facebook.com/dimuthu.madushan.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dimuthu" height="30" width="40" /></a>
 </p>
 <br>
 
